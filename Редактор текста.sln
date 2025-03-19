@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Редактор текста", "Редактор текста\Редактор текста.csproj", "{40644374-8998-4B21-BB1A-DD898BA49210}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40644374-8998-4B21-BB1A-DD898BA49210}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40644374-8998-4B21-BB1A-DD898BA49210}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40644374-8998-4B21-BB1A-DD898BA49210}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40644374-8998-4B21-BB1A-DD898BA49210}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

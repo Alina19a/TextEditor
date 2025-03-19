@@ -1,0 +1,20 @@
+C:\Users\user\source\repos\Редактор текста\Редактор текста\bin\Debug\net8.0-windows\Редактор текста.exe
+C:\Users\user\source\repos\Редактор текста\Редактор текста\bin\Debug\net8.0-windows\Редактор текста.deps.json
+C:\Users\user\source\repos\Редактор текста\Редактор текста\bin\Debug\net8.0-windows\Редактор текста.runtimeconfig.json
+C:\Users\user\source\repos\Редактор текста\Редактор текста\bin\Debug\net8.0-windows\Редактор текста.dll
+C:\Users\user\source\repos\Редактор текста\Редактор текста\bin\Debug\net8.0-windows\Редактор текста.pdb
+C:\Users\user\source\repos\Редактор текста\Редактор текста\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\user\source\repos\Редактор текста\Редактор текста\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\user\source\repos\Редактор текста\Редактор текста\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\user\source\repos\Редактор текста\Редактор текста\obj\Debug\net8.0-windows\Редактор текста_MarkupCompile.cache
+C:\Users\user\source\repos\Редактор текста\Редактор текста\obj\Debug\net8.0-windows\Редактор текста.g.resources
+C:\Users\user\source\repos\Редактор текста\Редактор текста\obj\Debug\net8.0-windows\Редактор текста.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Редактор текста\Редактор текста\obj\Debug\net8.0-windows\Редактор текста.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Редактор текста\Редактор текста\obj\Debug\net8.0-windows\Редактор текста.AssemblyInfo.cs
+C:\Users\user\source\repos\Редактор текста\Редактор текста\obj\Debug\net8.0-windows\Редактор текста.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Редактор текста\Редактор текста\obj\Debug\net8.0-windows\Редактор текста.sourcelink.json
+C:\Users\user\source\repos\Редактор текста\Редактор текста\obj\Debug\net8.0-windows\Редактор текста.dll
+C:\Users\user\source\repos\Редактор текста\Редактор текста\obj\Debug\net8.0-windows\refint\Редактор текста.dll
+C:\Users\user\source\repos\Редактор текста\Редактор текста\obj\Debug\net8.0-windows\Редактор текста.pdb
+C:\Users\user\source\repos\Редактор текста\Редактор текста\obj\Debug\net8.0-windows\Редактор текста.genruntimeconfig.cache
+C:\Users\user\source\repos\Редактор текста\Редактор текста\obj\Debug\net8.0-windows\ref\Редактор текста.dll
