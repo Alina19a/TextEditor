@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Редактор текста")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1014d5554441313445fad0f0c99645ef6aeb89fa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6be002d2c9613c67ae66134e2989d788c1e494e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Редактор текста")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Редактор текста")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
